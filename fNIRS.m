@@ -3,7 +3,7 @@ close all
 clc
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Part-1(Generating Brain Activation Pattern)%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%Uploading HbO Data To Workspace
+%Uploading HbO Data To MATLAB Workspace
 x=load('HBO.txt');
 
 % Select a specific Data point
